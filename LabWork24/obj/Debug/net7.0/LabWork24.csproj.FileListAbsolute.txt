@@ -1,0 +1,15 @@
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\bin\Debug\net7.0\LabWork24.exe
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\bin\Debug\net7.0\LabWork24.deps.json
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\bin\Debug\net7.0\LabWork24.runtimeconfig.json
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\bin\Debug\net7.0\LabWork24.dll
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\bin\Debug\net7.0\LabWork24.pdb
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.csproj.AssemblyReference.cache
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.AssemblyInfoInputs.cache
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.AssemblyInfo.cs
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.csproj.CoreCompileInputs.cache
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.dll
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\refint\LabWork24.dll
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.pdb
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\LabWork24.genruntimeconfig.cache
+E:\projects\labs\mdk01.04\LabWork24\LabWork24\obj\Debug\net7.0\ref\LabWork24.dll
